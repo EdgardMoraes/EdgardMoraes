@@ -70,8 +70,8 @@ Estudo prático de **Design Patterns** implementados em Java, com exemplos reais
 
 ## 📫 Entre em Contato
 
-- 💼 **LinkedIn:** [Edgard Moraes](https://www.linkedin.com/in/edgardmoraes/)
-- 📧 **Email:** seu.email@example.com
+- 💼 **LinkedIn:** [Edgard Moraes](https://www.linkedin.com/in/edgardsmoraes/)
+- 📧 **Email:** edgardcezar@gmail.com
 - 🌐 **Portfólio:** [Visite meu site](https://EdgardMoraes.github.io/my-portifolio/)
 - 🐙 **GitHub:** [@EdgardMoraes](https://github.com/EdgardMoraes)
 
